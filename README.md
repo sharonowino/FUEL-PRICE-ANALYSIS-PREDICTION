@@ -1,5 +1,3 @@
-# FUEL-PRICE-ANALYSIS-PREDICTION
-
 # Fuel Price Analysis and Prediction in Kenya.
 #![Image](https://th.bing.com/th/id/OIP.aSQCEyvKYyxhe7p3wPCXmgHaE8?rs=1&pid=ImgDetMain)
 
